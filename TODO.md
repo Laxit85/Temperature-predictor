@@ -1,0 +1,5 @@
+- [ ] Create Flask API (api.py) to load model and expose /predict endpoint
+- [ ] Modify PredictionPage.tsx to use month and hour inputs instead of humidity, pressure, etc., keeping theme
+- [ ] Update handleSubmit in PredictionPage.tsx to call API instead of mock prediction
+- [ ] Install Flask and run API
+- [ ] Test UI connection to API
